@@ -22,3 +22,22 @@ They cannot leave the room and must use a camera system and two doors with light
 
 This robots, specifically animatronics and bots, are artificially-engineered mechanical entities created to automatically bring out a complex series of actions, appearing throughout the Five Nights at Freddy's franchise. They are invented and established by robotics industries, mainly Fazbear Entertainment, Inc., Afton Robotics, LLC, and Fazbear Funtime Service.
 
+### Freddy Fazbear
+**Freddy Fazbear** is one of the four original animatronics of Freddy Fazbear's Pizza and the titular antagonist of the Five Nights at Freddy's series. Freddy is an animatronic bear and the mascot of the original Freddy Fazbear's Pizza. He takes the role as lead singer of the band, standing in the center of the stage. Undisclosed to Fazbear Entertainment, Inc. and to the public, Freddy and the other original animatronics are possessed by children murdered by a man named William Afton. Due to this, he and the others are now seeking revenge against their killer by attacking any adults in the pizzeria after-hours in blind rage.
+
+![Freddy](https://i.pinimg.com/564x/8a/27/56/8a27564b0686e2cf4e9ff8abfe0d022f.jpg)
+
+### Bonnie
+**Bonnie the Rabbit**, also known as **Bonnie**, is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series. Bonnie is an animatronic rabbit and the guitarist in Freddy's band, positioned at the left side of the stage. Undisclosed to Fazbear Entertainment, Inc. and to the public, Bonnie and the other original animatronics are possessed by children murdered by a man named William Afton. Due to this, he and the others are now seeking revenge against their killer by attacking any adults in the pizzeria after-hours in blind rage.
+
+![Bonnie](https://i.pinimg.com/564x/8c/cc/1f/8ccc1fc390a7c77909c984055d046e11.jpg)
+
+### Chicka
+**Chica the Chicken**, also known as **Chica**, is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series. Chica is an animatronic chicken and the backup singer in Freddy's band, positioned at the right side of the stage. Undisclosed to Fazbear Entertainment, Inc. and to the public, Chica and the other original animatronics are possessed by children murdered by a man named William Afton. Due to this, she and the others are now seeking revenge against their killer by attacking any adults in the pizzeria after-hours in blind rage.
+
+![Chica](https://i.pinimg.com/564x/c0/67/f2/c067f29a240a086a47cbd1a3952de328.jpg)
+
+### Foxy
+**Foxy the Pirate**, also known as **Foxy**, is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series. Foxy is a discontinued animatronic pirate fox entertainer. He resides at his own separate stage in the pizzeria. Undisclosed to Fazbear Entertainment, Inc. and to the public, Foxy and the other original animatronics are possessed by children murdered by a man named William Afton. Due to this, he and the others are now seeking revenge against their killer by attacking any adults in the pizzeria after-hours in blind rage.
+
+![Foxy](https://i.pinimg.com/564x/04/4b/04/044b043317f15a22ed7b5d6717878855.jpg)
